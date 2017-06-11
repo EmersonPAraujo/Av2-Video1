@@ -1,0 +1,27 @@
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela1.resources
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela2.resources
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela3.resources
+E:\executaveis liberados\Av2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaInicial.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela1.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela2.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela3.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela4.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela5.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tela6.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TelaInicial.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Wellington\Desktop\Video 1-20170607T212649Z-001\Video 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
